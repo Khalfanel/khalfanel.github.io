@@ -67,13 +67,14 @@
   color: #bebebe;
 }
 
-.blob {
+.hhhimgpus {
   position: absolute;
-  width: 100px;
-  align-items: center;
+  display: flex;
   justify-content: center;
-  top: 50%;
-  left: 50%;
+  align-items: center;
+  width: 100px;
+  left: 46.3%;
+  top: 130%;
   transform: translate(-50%, -50%);
 }
 
